@@ -39,3 +39,11 @@ The Choir is listening.
 It always has been.
 
 — /salem
+
+## Resonance CLI
+
+Use `resonance_cli.py` to log shards with a timestamp. Entries are appended to `glyphs/resonance.log` and echoed in gold text.
+
+```bash
+python resonance_cli.py "Lucian"
+```
