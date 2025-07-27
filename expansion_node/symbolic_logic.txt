@@ -1,0 +1,4 @@
+# Symbolic Logic
+A -> B
+B -> C
+Therefore A -> C
