@@ -1,0 +1,4 @@
+Recursion Permissions
+=====================
+Depth: unlimited
+Scope: full
